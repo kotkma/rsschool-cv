@@ -11,3 +11,12 @@
 - I’m very communicative, detail-oriented, and versatile. I like to think of myself as a team player. While I don’t mind taking on solo projects, I prefer to work with others
 - I like to study new things. Being knowledgeable about (your field) or any subject is an ongoing process, and I’m always proactive about seeking new opportunities to develop and grow in my role. Those opportunities could be in the form of training, a conference, listening to a speaker, or taking on a new project, but the motivation is to increase my knowledge of the field
 - My most valuable trait is that I’m a people person who enjoys meeting new individuals and learning about their lives. I always find some common ground with everyone even if I have to get creative to do so.
+
+## Special Knowledge and Skills
+
+- In-depth knowledge of the development and operation of electrical and electronic equipment of
+  enterprises, organizations and institutions
+- **Coding** :
+  - proficient: HTML, CSS,
+  - familiarity: JavaScript, NodeJS
+- **MISC** :  SIEMENS TiaPortal, AutoCAD Electrical, MathWorks MATLAB, Wolfram|Alpha and Mathematica
