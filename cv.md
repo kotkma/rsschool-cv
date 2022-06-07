@@ -20,3 +20,21 @@
   - proficient: HTML, CSS,
   - familiarity: JavaScript, NodeJS
 - **MISC** :  SIEMENS TiaPortal, AutoCAD Electrical, MathWorks MATLAB, Wolfram|Alpha and Mathematica
+
+## Experience
+
+-- UNDER CONSTRUCTION --
+
+## EDUCATION
+
+- **Otto von Guericke University, Magdeburg, Germany**
+  - MSc, Electrical Engineering and IT
+  - 2016–2018
+- **Kazan National Research Technical University
+  named after A. N. Tupolev - KAI, Kazan, Russia**
+  - MSc, Electric Power and Electrical Engineering
+  - 2016–2018
+- **Kazan National Research Technical University
+  named after A. N. Tupolev - KAI, Kazan, Russia**
+  - Bachelor, Electric Power and Electrical Engineering
+  - 2012–2016
