@@ -38,3 +38,9 @@
   named after A. N. Tupolev - KAI, Kazan, Russia**
   - Bachelor, Electric Power and Electrical Engineering
   - 2012–2016
+
+## LANGUAGES
+
+- English — Advanced (C1 IELTS Certificate)
+- Russian — Native
+- Tatar — Native
