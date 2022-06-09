@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kotkma.github.io/rsschool-cv/
