@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Ubuntu&display=swap');
+@import "src/scss/header.css";
+@import "src/scss/main.css";
+@import "src/scss/footer.css";
+
+* {
+  box-sizing: border-box;
+  font-family: "ubuntu", sans-serif;
+  color: #FFF9F2;
+}
+
+a {
+  text-decoration: none;
+}
+
